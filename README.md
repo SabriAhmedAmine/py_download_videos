@@ -26,7 +26,7 @@ A powerful and user-friendly Python tool for downloading videos and audio from Y
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
+   git clone https://github.com/SabriAhmedAmine/youtube-downloader.git
    cd youtube-downloader
    ```
 
@@ -232,7 +232,7 @@ Contributions are welcome! Here are some ways you can help:
 
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/youtube-downloader.git
+git clone https://github.com/SabriAhmedAmine/youtube-downloader.git
 cd youtube-downloader
 
 # Create a virtual environment
