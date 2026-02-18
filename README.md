@@ -36,7 +36,7 @@ This repository includes:
 
 1) **Clone the repository**
 ```bash
-git clone https://github.com/SabriAhmedAmine/youtube-downloader.git
+git clone https://github.com/SabriAhmedAmine/py_download_videos.git
 cd youtube-downloader
 ```
 
@@ -272,8 +272,8 @@ Contributions are welcome:
 
 Development setup:
 ```bash
-git clone https://github.com/SabriAhmedAmine/youtube-downloader.git
-cd youtube-downloader
+git clone https://github.com/SabriAhmedAmine/py_download_videos.git
+cd py_download_videos
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -U yt-dlp
